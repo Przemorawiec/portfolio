@@ -21,6 +21,7 @@ ISTQB FL -  Certificate number: 09720/FLCT/2018
 # My test case examples
 # My bug reports
 * Session based exploratory testing application: https://testujpl.gitlab.io/pomodoro-kanban-test/
+  * [app specification](https://drive.google.com/file/d/1GmN79hZJJOiRDD3PKlWq8MeSNDHsco0q/view?usp=sharing)
   * [Test session goals](https://drive.google.com/file/d/1iRAkowghzyy_PRniPmZbXMMwZecbDY85/view?usp=sharing)
   * [Session report 1](https://drive.google.com/file/d/1S_xktx9GxKjuWZ8bNUXyD9gCacZuZ1K5/view?usp=sharing)
   * [Session report 2.1](https://drive.google.com/file/d/1dBrNIUXlQteJEAg3u4dpUfhOK2XY7tq6/view?usp=sharing)
