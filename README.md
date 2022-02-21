@@ -17,7 +17,6 @@ My name is Przemyslaw Morawiec. I am master degree engineer speciality - Mechani
   * MS SQL
 # Certificates
 ISTQB FL -  Certificate number: 09720/FLCT/2018
-# Courses
 # My test case examples
 # My bug reports
 * Session based exploratory testing application: https://testujpl.gitlab.io/pomodoro-kanban-test/
