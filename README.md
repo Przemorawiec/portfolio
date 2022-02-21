@@ -29,5 +29,5 @@ ISTQB FL -  Certificate number: 09720/FLCT/2018
   * [Session report 3](https://drive.google.com/file/d/1zWdRSLnhtFVUtw75bTWUrvgvc8pcy9tZ/view?usp=sharing)
   * [Session report 4](https://drive.google.com/file/d/1N9xQe8eQevuXW3ZUYHW9eG17r73aZZPL/view?usp=sharing)
 * [Bugs reported for https://www.future-processing.pl/ site](https://drive.google.com/file/d/1EkmihkYvaod2U7bXDsZdawUJFST7L0sk/view?usp=sharing)
-* [Bugs reported ](https://drive.google.com/file/d/1Yd2F37bxdmnjOYlFHil46y0kF3P98lOm/view?usp=sharing)
+* [Bugs description/ reported ](https://drive.google.com/file/d/1Yd2F37bxdmnjOYlFHil46y0kF3P98lOm/view?usp=sharing)
 * 
