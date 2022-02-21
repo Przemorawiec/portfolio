@@ -1,6 +1,6 @@
 # Portfolio
 # About me
-My name is Przemyslaw Morawiec. I am master degree engineer speciality - Mechanics and Machine Design. I graduated Silesian University of Technology in Gliwice. Recently I have started to interest of software testing. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
+My name is Przemyslaw Morawiec. I am a master's degree engineer, specialty - Mechanics and Machine Design. I graduated from the Silesian University of Technology in Gliwice. Recently, I have started to be interested in software testing. My goal is to develop testing knowledge and technical skills. 
 # Tech skills & tools
 * Screen capture software
   * PicPick
