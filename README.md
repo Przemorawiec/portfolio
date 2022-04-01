@@ -18,7 +18,7 @@ My name is Przemyslaw Morawiec. I am a master's degree engineer, specialty - Mec
 # Certificates
 ISTQB FL -  Certificate number: 09720/FLCT/2018
 # My test case examples
-* [Test cases for Kanbanboard app](https://drive.google.com/file/d/1QIRr_FusQUbEqRZfx31xc_Z-utqCmBKQ/view?usp=sharing)
+* [Test cases for Kanbanboard app](https://drive.google.com/file/d/1VpIzRiJqQ-48neSD3N8v-E74OTK2Tv2f/view?usp=sharing)
 * [Test cases for Winamp app](https://drive.google.com/file/d/1P1MwvDFZjhx7P8TnEshjBQErpP1nP5hF/view?usp=sharing)
 # My bug reports
 * Session based exploratory testing application: https://testujpl.gitlab.io/pomodoro-kanban-test/
