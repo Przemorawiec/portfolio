@@ -35,9 +35,9 @@ ISTQB FL -  Certificate number: 09720/FLCT/2018
 # Automatic Selenium IDE tests
 * Task to do: Przygotuj uruchamialne skrypty testów automatycznych (Selenium IDE)
   * Opis: Stwórz skrypty testów automatycznych dla podanych przypadków:
-    • Logowanie standardowego użytkownika - poprawne logowanie
-    • Logowanie zablokowanego użytkownika - wyświetlenie komunikatu
-    • Dodanie produktu do koszyka - poprawnie dodany produkt
-    • Usunięcie produktu z koszyka - poprawne usunięcie produktu z koszyka
-    • Zamówienie produktu z koszyka - poprawne zamówienie produktu
-    • Dodanie trzech najtańszych produktów do koszyka - wykorzystując sortowanie ‘low to high’ dodaj trzy najtańsze produkty, usuń ostatni produkt z koszyka, a  następnie zamów pozostałe produkty z koszyka.
+    * Logowanie standardowego użytkownika - poprawne logowanie
+    * Logowanie zablokowanego użytkownika - wyświetlenie komunikatu
+    * Dodanie produktu do koszyka - poprawnie dodany produkt
+    * Usunięcie produktu z koszyka - poprawne usunięcie produktu z koszyka
+    * Zamówienie produktu z koszyka - poprawne zamówienie produktu
+    * Dodanie trzech najtańszych produktów do koszyka - wykorzystując sortowanie ‘low to high’ dodaj trzy najtańsze produkty, usuń ostatni produkt z koszyka, a  następnie zamów pozostałe produkty z koszyka.
