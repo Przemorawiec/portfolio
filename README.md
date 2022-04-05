@@ -44,6 +44,6 @@ ISTQB FL -  Certificate number: 09720/FLCT/2018
     * Dodanie trzech najtańszych produktów do koszyka - wykorzystując sortowanie ‘low to high’ dodaj trzy najtańsze produkty, usuń ostatni produkt z koszyka, a  następnie zamów pozostałe produkty z koszyka
 
 * Task solution: 
-  * Selenium IDE tests(https://drive.google.com/file/d/1bzouaU2FnMX_BmoMkWGYTJJ65e4JLdyI/view?usp=sharing)
+  * [Selenium IDE tests](https://drive.google.com/file/d/1bzouaU2FnMX_BmoMkWGYTJJ65e4JLdyI/view?usp=sharing)
   
    
