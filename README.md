@@ -32,6 +32,9 @@ ISTQB FL -  Certificate number: 09720/FLCT/2018
 * [Bugs reported for https://www.future-processing.pl/ site](https://drive.google.com/file/d/1EkmihkYvaod2U7bXDsZdawUJFST7L0sk/view?usp=sharing)
 * [Bugs description/ reported ](https://drive.google.com/file/d/1Yd2F37bxdmnjOYlFHil46y0kF3P98lOm/view?usp=sharing)
 * [website usability analysis: www.latamy.pl](https://drive.google.com/file/d/1WOoEQoM8b58I564moPLTrdXaoLiy-k5b/view?usp=sharing)
+* [ Reporting website bugs: http://skleptest.pl/ ](https://drive.google.com/file/d/1KovFzr5pcz_uY3WhYazPQKPonrAAplMD/view?usp=sharing)
+
+
 # Automatic Selenium IDE tests
 * Task to do: 
   Przygotuj uruchamialne skrypty testów automatycznych (Selenium IDE dla podanych przypadków:
